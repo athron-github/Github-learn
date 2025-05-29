@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<p>sample</p>
+<p>updated the index php file</p>
 </body>
 </html>
